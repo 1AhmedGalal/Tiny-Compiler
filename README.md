@@ -18,8 +18,8 @@ A simple compiler written in C# for compiling a language called ["Tiny"](https:/
 
 
 ## Creators
-- Ahmed Galal
-- Ahmed Ayman
-- Ahmed Reda
-- Abdelrahman Warraky
-- Ahmed Ibrahim
+- [Ahmed Galal](https://github.com/1AhmedGalal)
+- [Ahmed Ayman](https://github.com/AhmedAymanMo)
+- [Ahmed Reda](https://github.com/ahmedredaooooo)
+- [Abdelrahman Warraky](https://github.com/0Abdelrahman1)
+- [Ahmed Ibrahim]()
